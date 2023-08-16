@@ -1,2 +1,6 @@
 # Projeto-Zero
-Projeto da disciplina de Desenvolvimento Web
+
+## Desenvolvimento *Web*
+
+**Tema:** Projeto desenvolvido na disciplina de Desenvolvimento Web
+
